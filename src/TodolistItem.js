@@ -5,7 +5,7 @@ import { faXmark, faCircleCheck } from "@fortawesome/free-solid-svg-icons";
 export default class TodolistItem extends Component{
     checkItem(){
         const checkComponent = document.querySelector("#todo-item" + this.props.id);
-        if(checkComponent.className == 'on'){
+        if(checkComponent.className === 'on'){
             checkComponent.classList.remove('on');
         }else{
             checkComponent.classList.add('on');
