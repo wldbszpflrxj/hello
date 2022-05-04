@@ -13,6 +13,8 @@
     "@testing-library/user-event": "^13.5.0",
     "browser-router": "^0.2.0",
     "gh-pages": "^3.2.3",
+    "hash-router": "^0.4.0",
+    "hashrouter": "^1.1.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
@@ -45,5 +47,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "."
+  "homepage": "https://wldbszpflrxj.github.io/hello/"
 }
